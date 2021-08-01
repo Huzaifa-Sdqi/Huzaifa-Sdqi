@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Huzaifa-Sdqi
 - 👀 I’m interested in building Web and Mobile Application
 - 🌱 I’m currently learning Full Stack Development
-- 💞️ I’m looking to collaborate with you all, And those who are professionals in the same interest can support/help me start my journey as a Full-Stack Developer.
+- 💞️ I’m looking to collaborate with you all, and those who are experts in the related industry can help/support me begin my journey as a Full-Stack Developer. 
 - 📫 Reach me at huzaifasdqi@gmail.com
 
 <!---
