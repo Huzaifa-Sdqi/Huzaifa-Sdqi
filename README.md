@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Huzaifa-Sdqi
-- 👀 I’m interested in building Web and Mobile Application
-- 🌱 I’m a Full Stack Development, Frontend Focused.
-- 💞️ I’m looking to collaborate with you all, and those who are already in the industry can help/support me begin my journey as a Full-Stack Developer. 
+- 👀 Interested in building Web and Mobile Application
+- 🌱 A Computer Science Graduate and a Full Stack Developer, Frontend Focused.
+- 💞️ I’m looking to collaborate with you all, and industry proffesional can help/support or mentor me in my journey to become a Full-Stack Developer. 
 - 📫 I would love to work on any kind project/idea/startup. So, reach me out at huzaifasdqi@gmail.com
 
 <!---
